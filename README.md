@@ -1,40 +1,42 @@
-<h1 align="center">سلام، من امید علی گل‌زاد هستم 👋</h1>
+<h1 align="center">سلام! من امید علی گل‌زاد هستم 👋</h1>
 
 <p align="center">
-🧠 دانش‌آموز پایه دهم رشته ریاضی<br>
-💻 عاشق برنامه‌نویسی وب و فرانت‌اند<br>
-🌱 در مسیر تبدیل شدن به یک دولوپر حرفه‌ای<br>
-📍 ایران - قزوین
+🧠 دانش‌آموز پایه یازدهم رشته ریاضی  
+💻 علاقه‌مند به برنامه‌نویسی وب و توسعه فرانت‌اند  
+🚀 در مسیر تبدیل شدن به یک دولوپر حرفه‌ای  
+📍 قزوین، ایران  
 </p>
 
 ---
 
-### 🛠 مهارت‌ها:
-
-- HTML5 / CSS3 / JavaScript / C# / Asp.net Core and MVC
-- Git & GitHub (در حال یادگیری)
-- در حال تمرین پروژه‌های فرانت‌اند
-
----
-
-### 🔭 الان در حال کار روی:
-- تمرین طراحی رابط کاربری (UI) با HTML/CSS
-- توسعه پروژه‌های ساده برای رزومه
-- ساخت یک پروفایل قوی گیت‌هاب
+### 🛠 مهارت‌ها
+- **Frontend:** HTML5 / CSS3 / JavaScript  
+- **Backend:** C# / ASP.NET Core / MVC  
+- **ابزارها:** Git & GitHub  
+- **دیگر:** طراحی رابط کاربری و تبدیل طرح به کد
 
 ---
 
-### 📈 وضعیت گیت‌هاب من:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omidaligolzadh&show_icons=true&theme=radical)
+### 🔭 مشغول یادگیری و کار روی
+- تقویت مهارت‌های طراحی UI با HTML و CSS  
+- ساخت پروژه‌های کوچک و کاربردی برای رزومه  
+- کامل کردن پروفایل گیت‌هاب و مستندسازی پروژه‌ها
 
 ---
 
-### 📫 راه‌های ارتباط با من:
-- 📧 ایمیل: Omidaligolzadh@gmail.com
+### 📊 وضعیت گیت‌هاب من
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Omidaligolzadh&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 راه‌های ارتباطی
+- ایمیل: **Omidaligolzadh@gmail.com**
 
 ---
 
 <div align="center">
-   ممنون که پروفایل منو دیدی 🙌
+🌟 ممنون که وقت گذاشتی و پروفایل من رو دیدی 🌟  
 </div>
